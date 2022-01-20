@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/department-service/department-service.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/department-service/department-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projectSoa1.iml" filepath="$PROJECT_DIR$/.idea/projectSoa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/Admin-Service/springboot-mongodb.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Admin-Service/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/student-Service/springboot-mongodb (1).iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/student-Service/springboot-mongodb (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/Book-Service - Copie/springboot-mongodb (2).iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Book-Service - Copie/springboot-mongodb (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/Loan-Service - Copie/springboot-mongodb (3).iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Loan-Service - Copie/springboot-mongodb (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectSOA_NOSQL-main/user-service/user-service.iml" filepath="$PROJECT_DIR$/ProjectSOA_NOSQL-main/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Admin-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/student-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Book-Service - Copie/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjectSOA_NOSQL-main/Loan-Service - Copie/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
